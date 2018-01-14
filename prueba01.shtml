@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>CyberTips</title>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" href="http://www.sodimac.com.pe/static/styles/content.min.css?vid=3322">
+  <link rel="stylesheet" type="text/css" href="http://www.sodimac.com.pe/static/categorias/contenidoEstatido/cybertips/assets/css/cybertip.css">
+<link rel="stylesheet" href="assets/css/cybertip.css">
+</head>
+<body>
+  <main id="main" class="newMainSection">
+    <div class="container">
+      <section class="col-md-12">
+        <div class="row">
+          <h1 style="font-family:miso" > Rosmery </h1>
+          <h2 style="font-family:hand" > Rosmery </h2>
+          <h3 style="font-family:misoregular" > Rosmery </h3>
+          <h4 style="font-family:misolight"> Rosmery </h4>
+          <h5 style="font-family:iconvtc"> Rosmery </h5>
+        </div>
+      </section>
+    </div>
+  </main>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+  <script src="http://www.sodimac.com.pe/static/script/min/plugin/content.min.js?vid=3322"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <script type="text/javascript" src="http://www.sodimac.com.pe/static/categorias/contenidoEstatido/cybertips/assets/js/cybertip.js"></script>
+  <script type="text/javascript" src="">
+  </script>
+</body>
+
+</html>
